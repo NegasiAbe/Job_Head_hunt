@@ -5,7 +5,7 @@
 
 ## Authors
 
-- [Abdullah Moiz](https://www.github.com/Abdullah-moiz)
+- [Negasi Abebe]
 
 ## Features
 

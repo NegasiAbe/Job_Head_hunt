@@ -5,7 +5,6 @@ const initialState = {
     matchingData : null, 
     myJobs : null,
 }
-
 export const jobSlice = createSlice({
   name: 'Job',
   initialState,
